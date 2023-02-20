@@ -1,0 +1,11 @@
+C:\Users\ThinkPad\source\repos\VP_LR2\StudentsUI\obj\Debug\StudentsUI.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\source\repos\VP_LR2\StudentsUI\obj\Debug\StudentsUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ThinkPad\source\repos\VP_LR2\StudentsUI\obj\Debug\StudentsUI.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\VP_LR2\StudentsUI\bin\Debug\StudentsUI.exe.config
+C:\Users\ThinkPad\source\repos\VP_LR2\StudentsUI\bin\Debug\StudentsUI.exe
+C:\Users\ThinkPad\source\repos\VP_LR2\StudentsUI\bin\Debug\StudentsUI.pdb
+C:\Users\ThinkPad\source\repos\VP_LR2\StudentsUI\bin\Debug\Student.dll
+C:\Users\ThinkPad\source\repos\VP_LR2\StudentsUI\bin\Debug\Student.pdb
+C:\Users\ThinkPad\source\repos\VP_LR2\StudentsUI\obj\Debug\StudentsUI.csproj.CopyComplete
+C:\Users\ThinkPad\source\repos\VP_LR2\StudentsUI\obj\Debug\StudentsUI.exe
+C:\Users\ThinkPad\source\repos\VP_LR2\StudentsUI\obj\Debug\StudentsUI.pdb

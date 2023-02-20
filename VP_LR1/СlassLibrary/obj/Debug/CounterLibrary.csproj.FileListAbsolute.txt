@@ -1,0 +1,6 @@
+C:\Users\ThinkPad\source\repos\СlassLibrary\СlassLibrary\bin\Debug\СlassLibrary.dll
+C:\Users\ThinkPad\source\repos\СlassLibrary\СlassLibrary\bin\Debug\СlassLibrary.pdb
+C:\Users\ThinkPad\source\repos\СlassLibrary\СlassLibrary\obj\Debug\CounterLibrary.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\source\repos\СlassLibrary\СlassLibrary\obj\Debug\CounterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\СlassLibrary\СlassLibrary\obj\Debug\СlassLibrary.dll
+C:\Users\ThinkPad\source\repos\СlassLibrary\СlassLibrary\obj\Debug\СlassLibrary.pdb

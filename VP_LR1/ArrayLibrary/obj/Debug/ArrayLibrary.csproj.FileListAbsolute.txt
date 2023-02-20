@@ -1,0 +1,6 @@
+C:\Users\ThinkPad\source\repos\СlassLibrary\ArrayLibrary\bin\Debug\ArrayLibrary.dll
+C:\Users\ThinkPad\source\repos\СlassLibrary\ArrayLibrary\bin\Debug\ArrayLibrary.pdb
+C:\Users\ThinkPad\source\repos\СlassLibrary\ArrayLibrary\obj\Debug\ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\source\repos\СlassLibrary\ArrayLibrary\obj\Debug\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\СlassLibrary\ArrayLibrary\obj\Debug\ArrayLibrary.dll
+C:\Users\ThinkPad\source\repos\СlassLibrary\ArrayLibrary\obj\Debug\ArrayLibrary.pdb

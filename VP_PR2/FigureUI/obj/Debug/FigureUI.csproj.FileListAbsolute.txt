@@ -1,0 +1,11 @@
+C:\Users\ThinkPad\source\repos\VP_PR2\FigureUI\bin\Debug\FigureUI.exe.config
+C:\Users\ThinkPad\source\repos\VP_PR2\FigureUI\bin\Debug\FigureUI.exe
+C:\Users\ThinkPad\source\repos\VP_PR2\FigureUI\bin\Debug\FigureUI.pdb
+C:\Users\ThinkPad\source\repos\VP_PR2\FigureUI\bin\Debug\FigureLibrary.dll
+C:\Users\ThinkPad\source\repos\VP_PR2\FigureUI\bin\Debug\FigureLibrary.pdb
+C:\Users\ThinkPad\source\repos\VP_PR2\FigureUI\obj\Debug\FigureUI.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\source\repos\VP_PR2\FigureUI\obj\Debug\FigureUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ThinkPad\source\repos\VP_PR2\FigureUI\obj\Debug\FigureUI.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\VP_PR2\FigureUI\obj\Debug\FigureUI.csproj.CopyComplete
+C:\Users\ThinkPad\source\repos\VP_PR2\FigureUI\obj\Debug\FigureUI.exe
+C:\Users\ThinkPad\source\repos\VP_PR2\FigureUI\obj\Debug\FigureUI.pdb
