@@ -1,6 +1,0 @@
-C:\Users\ThinkPad\source\repos\VP_LR2\Student\obj\Debug\StudentLib.csproj.AssemblyReference.cache
-C:\Users\ThinkPad\source\repos\VP_LR2\Student\obj\Debug\StudentLib.csproj.CoreCompileInputs.cache
-C:\Users\ThinkPad\source\repos\VP_LR2\Student\bin\Debug\Student.dll
-C:\Users\ThinkPad\source\repos\VP_LR2\Student\bin\Debug\Student.pdb
-C:\Users\ThinkPad\source\repos\VP_LR2\Student\obj\Debug\Student.dll
-C:\Users\ThinkPad\source\repos\VP_LR2\Student\obj\Debug\Student.pdb
