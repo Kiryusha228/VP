@@ -33,7 +33,7 @@ namespace StudentsUI
             Console.Clear();
             Console.WriteLine("Введите стороку");
             string str = Console.ReadLine();
-            Extensions.StringInfo info = new Extensions.StringInfo();
+            StringExtensions.StringInfo info = new StringExtensions.StringInfo();
             info = str.Info();
             Console.WriteLine($"Длинна строки: {info.Lenght}");
             Console.WriteLine($"Количество букв: {info.LetterCount}");
