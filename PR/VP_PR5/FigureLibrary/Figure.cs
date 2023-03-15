@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace FigureLibrary
 {
-    //public abstract class Figure<T> where T : IComparable<T>
     public abstract class Figure: IComparable<Figure>
     {
         public string Name { get; private set; }
@@ -19,7 +18,19 @@ namespace FigureLibrary
 
         public int CompareTo(Figure other)
         {
-            return this.Square.CompareTo(other.Square);
+            if (this.Square > other.Square)
+            {
+                return 1;
+            }
+            else if (this.Square < other.Square)
+            {
+                return -1;
+            }
+            else
+            {
+                return 0;
+            }
+            //return this.Square.CompareTo(other.Square);
         }
 
         public Figure()

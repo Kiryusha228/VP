@@ -25,9 +25,7 @@ namespace FigureLibrary
                 {
                     if (list[j].CompareTo(list[j + 1]) > 0)
                     {
-                        T tmp = list[j+1];
-                        list[j + 1] = list[j];
-                        list[j] = tmp;
+                        (list[j], list[j + 1]) = (list[j+1], list[j]);
                     }
                 }
             }
