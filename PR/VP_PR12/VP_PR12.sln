@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toster", "Toster\Toster.csproj", "{C27F9EE5-7CF7-4043-9CC2-69E03F61D257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C27F9EE5-7CF7-4043-9CC2-69E03F61D257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27F9EE5-7CF7-4043-9CC2-69E03F61D257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27F9EE5-7CF7-4043-9CC2-69E03F61D257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27F9EE5-7CF7-4043-9CC2-69E03F61D257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ACBE5BF-9EE9-44CE-9CDE-7BEA8B003B4F}
+	EndGlobalSection
+EndGlobal
